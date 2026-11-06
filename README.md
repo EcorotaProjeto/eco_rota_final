@@ -1,4 +1,4 @@
-Documento de Escopo - Projeto EcoRota
+_Documento de Escopo - Projeto EcoRota_
 
 ### 1. Identificação
   Nome da equipe: Ecologic.
@@ -138,7 +138,8 @@ Documento de Escopo - Projeto EcoRota
   - O formulário da página de Contato deve possuir validação front-end (avisos de campos obrigatórios).
 
 ### 13. Aprovação
-_Responsável pela validação do escopo: Eduarda Amorim de Almeida
-Data de aprovação: 23 / 09 / 2026_
+_Responsável pela validação do escopo: Eduarda Amorim de Almeida_
+
+_Data de aprovação: 23 / 09 / 2026_
 
 
